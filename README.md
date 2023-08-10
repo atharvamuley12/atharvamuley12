@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvamuley12&label=Profile%20views&color=0e75b6&style=flat" alt="atharvamuley12" /> </p>
 
-- 🌱 I’m currently learning **Git, Maven, Jenkins, Docker, Kubernetess**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvamuley12" alt="atharvamuley12" /></a> </p>
+
+- 🌱 I’m currently learning **Git, Maven, Jenkins, Docker, Kubernetes, Linux, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharvamuley12](https://github.com/atharvamuley12)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **atharvamuley12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M5cPN2fCMvKNdvdAqC0qKeI7myiGUeh6/view](https://drive.google.com/file/d/1M5cPN2fCMvKNdvdAqC0qKeI7myiGUeh6/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X6MA-gmEJ31jwtzm7Oxf25JNUkDFmz9O/view?usp=sharing](https://drive.google.com/file/d/1X6MA-gmEJ31jwtzm7Oxf25JNUkDFmz9O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
