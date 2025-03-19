@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvamuley12" alt="atharvamuley12" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Terraform**
+- 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **Linux, AWS, Docker**
+- 💬 Ask me about **Linux, AWS, Docker, Kubernetes, Git**
 
 - 📫 How to reach me **atharvamuley12@gmail.com**
 
